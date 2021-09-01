@@ -5,5 +5,5 @@ Daily quotes from people of all walks of life that will inspire you to start the
 ------------
 
 
-English: https://kuotiva.com/
-Bahasa Indonesia: https://kuotiva.com/id/
+- English: https://kuotiva.com/
+- Bahasa Indonesia: https://kuotiva.com/id/
